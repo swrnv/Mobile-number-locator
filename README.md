@@ -4,8 +4,8 @@ a simple python script to check where the mobile number was registered and gener
 This was part of our Semester project demonstration. You can also read our project report in folder || Docs ||.
 
 
-#Steps
-1.copy this repo
-2.compile the files
-3.run the python script
-4.verify the results
+# Steps
+ 1. copy this repo
+ 2. compile the files
+ 3. run the python script
+ 4. verify the results
